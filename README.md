@@ -24,7 +24,7 @@ Verify that the following settings are correct in the Property Pages before comp
 
 Download from:
 
-[https://www.wxwidgets.org/](https://www.wxwidgets.org/)
+https://www.wxwidgets.org/
 
 Build wxWidgets as Debug|x64, Configuration Properties->General->Configuration type->Static library (.lib):
 
@@ -52,7 +52,7 @@ Add to additional library directories:
 
 Download from:
 
-[link](http://www.boost.org/)
+http://www.boost.org/
 
 Compile with:
 > bootstrap
@@ -78,7 +78,7 @@ Add to additional library directories:
 
 Dowload from:
 
-[link](http://www.microsoft.com/en-us/download/details.aspx?id=40276)
+[Kinect for Windows SDK v1.8 and Kinect Development Toolkit v1.8](http://www.microsoft.com/en-us/download/details.aspx?id=40276)
 
 For wxSurfaceMotion:
 
